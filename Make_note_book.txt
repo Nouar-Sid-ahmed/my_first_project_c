@@ -1,0 +1,15 @@
+Makefile:
+
+- make (compile and create a basic program executable)
+
+- make clean (remove basic object ".o")
+
+- make fclean (remove basic object ".o" and the executable)
+
+- make re (make fclean and make)
+
+- make bonus (compile and create a Bonus program executable)
+
+- make bclean (remove Bonus object ".o")
+
+- make bfclean (remove Bonus object ".o" and the executable)
